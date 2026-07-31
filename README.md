@@ -18,7 +18,7 @@
 
 Software developer based in **Antananarivo, Madagascar** (UTC+3). I build real-world applications that solve problems for the Malagasy market — from food delivery platforms to farmers' connection apps.
 
-- Currently working on **MITANEKO**, an app for the **Orange Digital Center POESAM** program
+- Currently working on **MITANEKO**, a participatory urban governance platform
 - Currently learning **TypeScript**, **React**, and **Java Server Pages**
 - Open to collaborating on web apps and exciting new projects
 - Always curious about new tech — lately exploring **opencode** and AI-assisted development
@@ -39,8 +39,8 @@ Software developer based in **Antananarivo, Madagascar** (UTC+3). I build real-w
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**MITANEKO**](https://github.com/toaandri/MITANEKO) | App built for the **Orange Digital Center POESAM** program | TypeScript |
-| [**M-E-kaly**](https://github.com/toaandri/M-E-kaly) | Online meal ordering & delivery system for the Malagasy market | TypeScript |
+| [**MITANEKO**](https://github.com/toaandri/MITANEKO) | Participatory urban governance platform — citizens report city issues (cleanliness, safety, infrastructure), the community votes to prioritize them, and local authorities create & track resolution actions | TypeScript |
+| [**M-E-kaly**](https://github.com/toaandri/M-E-kaly) | Full-stack food delivery platform — customer & driver mobile apps, vendor back-office, admin dashboard, phone + OTP auth, distance-based delivery fees, Mobile Money payments | TypeScript |
 | [**Tantsaha-Connect**](https://github.com/toaandri/Tantsaha-Connect) | *"Tantsaha"* = **farmer** in Malagasy — a platform connecting farmers | React, JavaScript |
 | [**Portfolio**](https://github.com/toaandri/Portfolio) | My personal portfolio website | TypeScript |
 | [**Projet-transversal-Anamboatra-L2**](https://github.com/toaandri/Projet-transversal-Anamboatra-L2) | My **end-of-year** project | TypeScript |
@@ -70,8 +70,8 @@ Software developer based in **Antananarivo, Madagascar** (UTC+3). I build real-w
 - **Nov 2024** — Joined GitHub
 - **May 2025** — First repository: `Projet_tranversal_G7` (group project in PHP)
 - **Apr 2026** — Started `Projet-transversal-Anamboatra-L2`
-- **May 2026** — Selected for the **Orange Digital Center POESAM** program, built **MITANEKO**
-- **Jul 2026** — Shipped **M-E-kaly** (food delivery for Madagascar), a BTP site, and my opencode skills collection
+- **May 2026** — Built **MITANEKO**, a participatory urban governance platform
+- **Jul 2026** — Shipped **M-E-kaly** (food delivery platform), a BTP site, and my opencode skills collection
 
 ---
 
