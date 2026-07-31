@@ -16,7 +16,7 @@
 
 ### About Me
 
-Software developer based in **Antananarivo, Madagascar** (UTC+3). I build real-world applications that solve problems for the Malagasy market — from food delivery platforms to farmers' connection apps.
+Software developer based in **Antananarivo, Madagascar** (UTC+3). I design and build real-world web and mobile applications, from API design and databases to interactive frontends. I focus on clean, maintainable code and pragmatic solutions that address concrete needs.
 
 - Currently working on **MITANEKO**, a participatory urban governance platform
 - Currently learning **TypeScript**, **React**, and **Java Server Pages**
