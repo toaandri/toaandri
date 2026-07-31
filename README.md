@@ -16,9 +16,15 @@
 
 ### About Me
 
-Software developer based in **Antananarivo, Madagascar** (UTC+3). I design and build real-world web and mobile applications, from API design and databases to interactive frontends. I focus on clean, maintainable code and pragmatic solutions that address concrete needs.
+Software developer based in **Antananarivo, Madagascar** (UTC+3). I design and build interactive frontends, complex backends, and robust database architectures. I focus on clean, maintainable code and pragmatic solutions that address concrete needs.
 
-- Currently working on **MITANEKO**, a participatory urban governance platform
+**Key projects I'm working on:**
+
+1. **MITANEKO** — my flagship project: a participatory urban governance platform
+2. **Anamboatra** — my end-of-year project
+3. **M-E-kaly** — a full-stack food delivery platform
+4. **BTP site** — a website for the building & public works sector
+
 - Currently learning **TypeScript**, **React**, and **Java Server Pages**
 - Open to collaborating on web apps and exciting new projects
 - Always curious about new tech — lately exploring **opencode** and AI-assisted development
@@ -77,6 +83,7 @@ Software developer based in **Antananarivo, Madagascar** (UTC+3). I design and b
 
 ### Let's Connect
 
+- [Portfolio](https://toaandri-portfolio.vercel.app) — my personal website (coming soon)
 - [LinkedIn](https://www.linkedin.com/in/maharavo-andrianarijery-87abb4348/)
 - [Facebook](https://web.facebook.com/ravo.mah)
 - toavinamaharavo@gmail.com
