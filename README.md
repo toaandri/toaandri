@@ -20,24 +20,20 @@ Software developer based in **Antananarivo, Madagascar** (UTC+3). I design and b
 
 **Key projects I'm working on:**
 
-1. **MITANEKO** — my flagship project: a participatory urban governance platform
-2. **Anamboatra** — my end-of-year project
+1. **MITANEKO** — a participatory urban governance platform *(still in production)*
+2. **Anamboatra** — a full-stack platform: citizen web app, staff dashboard, and mobile field app with real-time updates (Express, Socket.io, PostgreSQL, React, Expo)
 3. **M-E-kaly** — a full-stack food delivery platform
 4. **BTP site** — a website for the building & public works sector
 
-- Currently learning **TypeScript**, **React**, and **Java Server Pages**
+- Always learning new stacks — React, React Native, Node.js, Docker, and the modern tooling that goes with it
 - Open to collaborating on web apps and exciting new projects
 - Always curious about new tech — lately exploring **opencode** and AI-assisted development
 
 ---
 
-### GitHub Stats
+### Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toaandri&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toaandri&layout=compact&theme=radical" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toaandri&theme=radical" alt="Streak stats" />
-</p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/toaandri/toaandri/output/github-snake-dark.svg)
 
 ---
 
@@ -49,7 +45,7 @@ Software developer based in **Antananarivo, Madagascar** (UTC+3). I design and b
 | [**M-E-kaly**](https://github.com/toaandri/M-E-kaly) | Full-stack food delivery platform — customer & driver mobile apps, vendor back-office, admin dashboard, phone + OTP auth, distance-based delivery fees, Mobile Money payments | TypeScript |
 | [**Tantsaha-Connect**](https://github.com/toaandri/Tantsaha-Connect) | *"Tantsaha"* = **farmer** in Malagasy — a platform connecting farmers | React, JavaScript |
 | [**Portfolio**](https://github.com/toaandri/Portfolio) | My personal portfolio website | TypeScript |
-| [**Projet-transversal-Anamboatra-L2**](https://github.com/toaandri/Projet-transversal-Anamboatra-L2) | My **end-of-year** project | TypeScript |
+| [**Projet-transversal-Anamboatra-L2**](https://github.com/toaandri/Projet-transversal-Anamboatra-L2) | Full-stack platform — citizen web app, staff dashboard & mobile field app with real-time updates | TypeScript |
 | [**Java-Server-Page-TPE**](https://github.com/toaandri/Java-Server-Page-TPE) | Personal research project on Java Server Pages | Java |
 | [**BTP-site-**](https://github.com/toaandri/BTP-site-) | A website for the building & public works (BTP) sector | TypeScript |
 | [**Opencode-Skills**](https://github.com/toaandri/Opencode-Skills) | My personal collection of opencode AI skills | JavaScript |
@@ -64,6 +60,8 @@ Software developer based in **Antananarivo, Madagascar** (UTC+3). I design and b
 **Languages:** TypeScript · JavaScript · Java · Python · PHP · SQL
 
 **Frontend:** React · HTML · CSS
+
+**Mobile:** React Native (Expo)
 
 **Backend:** Node.js · JSP · PHP
 
