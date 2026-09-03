@@ -41,11 +41,9 @@
   .project-card:hover { transform: translateY(-2px); box-shadow: 0 4px 20px rgba(88,166,255,0.15); }
 </style>
 
-<div class="profile-header" align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0d1117 100%); min-height: 140px; padding-top: 20px;">
+<h1 align="center">ANDRIANARIJERY Toaviniaina Maharavo</h1>
 
-<h1 class="profile-name" style="font-size:2.2em; font-weight:800; letter-spacing:-0.02em; color:#c9d1d9;">ANDRIANARIJERY Toaviniaina Maharavo</h1>
-
-<p class="profile-subtitle" style="font-size:1em; color:#8b949e; letter-spacing:0.05em; margin-top:8px;">SOFTWARE DEVELOPER &middot; MADAGASCAR</p>
+<p align="center">SOFTWARE DEVELOPER · MADAGASCAR</p>
 
 <br/>
 
