@@ -173,6 +173,7 @@ Software developer based in **Antananarivo, Madagascar** (UTC+3). I design and b
 - **Apr 2026** — Started `Projet-transversal-Anamboatra-L2`
 - **May 2026** — Built **MITANEKO**, a participatory urban governance platform
 - **Jul 2026** — Shipped **M-E-kaly** (food delivery platform), a BTP site, and my opencode skills collection
+- **Sep 2026** — Exploring AI-assisted development with opencode
 
 ---
 
