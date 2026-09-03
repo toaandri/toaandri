@@ -1,38 +1,115 @@
-<div align="center">
+<style>
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes glowPulse {
+    0%, 100% { text-shadow: 0 0 20px rgba(88,166,255,0.3); }
+    50% { text-shadow: 0 0 40px rgba(88,166,255,0.6); }
+  }
+  @keyframes slideInLeft {
+    from { opacity: 0; transform: translateX(-30px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
+  @keyframes slideInRight {
+    from { opacity: 0; transform: translateX(30px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
+  @keyframes scaleIn {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
+  }
+  .profile-header { animation: fadeIn 1s ease-out; }
+  .profile-name { animation: glowPulse 3s ease-in-out infinite, fadeInUp 1s ease-out 0.2s both; }
+  .profile-subtitle { animation: fadeInUp 1s ease-out 0.4s both; }
+  .stats-section { animation: fadeInUp 1s ease-out 0.6s both; }
+  .about-section { animation: slideInLeft 0.8s ease-out 0.8s both; }
+  .tech-section { animation: slideInRight 0.8s ease-out 1s both; }
+  .projects-section { animation: scaleIn 0.8s ease-out 1.2s both; }
+  .journey-section { animation: fadeInUp 0.8s ease-out 1.4s both; }
+  .connect-section { animation: fadeInUp 0.8s ease-out 1.6s both; }
+  .footer-section { animation: fadeIn 1s ease-out 1.8s both; }
+  table { transition: all 0.3s ease; }
+  td { transition: all 0.3s ease; }
+  tr:hover td { background: rgba(88,166,255,0.05); }
+  a { transition: all 0.3s ease; }
+  a:hover { opacity: 0.8; }
+  .project-card:hover { transform: translateY(-2px); box-shadow: 0 4px 20px rgba(88,166,255,0.15); }
+</style>
 
-# ANDRIANARIJERY Toaviniaina Maharavo
+<div class="profile-header" align="center">
 
-### Software Developer · Madagascar 🇲🇬
+<svg width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="wave-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#wave-gradient)" opacity="0.6">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
+      M0,60 C150,90 350,30 600,60 C850,90 1050,30 1200,60 L1200,0 L0,0 Z;
+      M0,60 C150,30 350,90 600,60 C850,30 1050,90 1200,60 L1200,0 L0,0 Z;
+      M0,60 C150,90 350,30 600,60 C850,90 1050,30 1200,60 L1200,0 L0,0 Z" />
+  </path>
+  <path fill="#0d1117" opacity="0.8">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
+      M0,80 C200,100 400,60 600,80 C800,100 1000,60 1200,80 L1200,0 L0,0 Z;
+      M0,80 C200,60 400,100 600,80 C800,60 1000,100 1200,80 L1200,0 L0,0 Z;
+      M0,80 C200,100 400,60 600,80 C800,100 1000,60 1200,80 L1200,0 L0,0 Z" />
+  </path>
+  <path fill="#0d1117">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite" values="
+      M0,100 C300,110 600,90 900,100 C1050,105 1150,95 1200,100 L1200,0 L0,0 Z;
+      M0,100 C300,90 600,110 900,100 C1050,95 1150,105 1200,100 L1200,0 L0,0 Z;
+      M0,100 C300,110 600,90 900,100 C1050,105 1150,95 1200,100 L1200,0 L0,0 Z" />
+  </path>
+</svg>
+
+<h1 class="profile-name" style="margin-top:-60px; font-size:2.5em; font-weight:800; letter-spacing:-0.02em; color:#c9d1d9;">ANDRIANARIJERY Toaviniaina Maharavo</h1>
+
+<p class="profile-subtitle" style="font-size:1.1em; color:#8b949e; letter-spacing:0.05em; margin-top:8px;">SOFTWARE DEVELOPER &middot; MADAGASCAR</p>
 
 <br/>
 
+<div class="stats-section">
 <a href="https://github.com/toaandri">
   <img src="https://github-readme-stats.vercel.app/api?username=toaandri&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
 </a>
 <a href="https://github.com/toaandri">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toaandri&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
 </a>
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=toaandri&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9" width="70%" />
+</div>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20 monocle.png" width="30" /> About Me
+## About Me
 
-> **Full-stack developer** with a passion for building clean, scalable applications. I love turning complex problems into elegant, user-friendly solutions.
+<div class="about-section">
 
-- 📍 Based in **Antananarivo, Madagascar** (UTC+3)
-- 🎯 Focused on **React, Node.js, TypeScript** & modern web stacks
-- 🧠 Always exploring — lately diving into **AI-assisted development** with opencode
-- 💡 Open to collaborations on exciting projects
+> **Full-stack developer** with a passion for building clean, scalable applications. I turn complex problems into elegant, user-friendly solutions.
+
+- Based in **Antananarivo, Madagascar** (UTC+3)
+- Focused on **React, Node.js, TypeScript** & modern web stacks
+- Always exploring -- lately diving into **AI-assisted development** with opencode
+- Open to collaborations on exciting projects
+
+</div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> Tech Stack
+## Tech Stack
+
+<div class="tech-section">
 
 <table>
   <tr>
@@ -101,65 +178,73 @@
   </tr>
 </table>
 
+</div>
+
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="30" /> Featured Projects
+## Featured Projects
+
+<div class="projects-section">
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/toaandri/MITANEKO">🏛️ MITANEKO</a></h3>
-      <p>Participatory urban governance platform — citizens report city issues, the community votes to prioritize them, and local authorities track resolution actions.</p>
+    <td width="50%" valign="top" class="project-card" style="border:1px solid #30363d; border-radius:8px; padding:16px; transition:all 0.3s ease;">
+      <h3><a href="https://github.com/toaandri/MITANEKO" style="color:#58a6ff; text-decoration:none;">MITANEKO</a></h3>
+      <p style="color:#8b949e; font-size:0.9em;">Participatory urban governance platform -- citizens report city issues, the community votes to prioritize them, and local authorities track resolution actions.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/toaandri/M-E-kaly">🛵 M-E-kaly</a></h3>
-      <p>Full-stack food delivery platform — customer & driver apps, vendor back-office, admin dashboard, OTP auth, Mobile Money payments.</p>
+    <td width="50%" valign="top" class="project-card" style="border:1px solid #30363d; border-radius:8px; padding:16px; transition:all 0.3s ease;">
+      <h3><a href="https://github.com/toaandri/M-E-kaly" style="color:#58a6ff; text-decoration:none;">M-E-kaly</a></h3>
+      <p style="color:#8b949e; font-size:0.9em;">Full-stack food delivery platform -- customer & driver apps, vendor back-office, admin dashboard, OTP auth, Mobile Money payments.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/toaandri/Tantsaha-Connect">🌾 Tantsaha-Connect</a></h3>
-      <p><em>"Tantsaha" = farmer</em> in Malagasy — a platform connecting farmers with markets and resources.</p>
+    <td width="50%" valign="top" class="project-card" style="border:1px solid #30363d; border-radius:8px; padding:16px; transition:all 0.3s ease;">
+      <h3><a href="https://github.com/toaandri/Tantsaha-Connect" style="color:#58a6ff; text-decoration:none;">Tantsaha-Connect</a></h3>
+      <p style="color:#8b949e; font-size:0.9em;"><em>"Tantsaha" = farmer</em> in Malagasy -- a platform connecting farmers with markets and resources.</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/toaandri/Portfolio">💼 Portfolio</a></h3>
-      <p>My personal portfolio website — a showcase of my work and skills.</p>
+    <td width="50%" valign="top" class="project-card" style="border:1px solid #30363d; border-radius:8px; padding:16px; transition:all 0.3s ease;">
+      <h3><a href="https://github.com/toaandri/Portfolio" style="color:#58a6ff; text-decoration:none;">Portfolio</a></h3>
+      <p style="color:#8b949e; font-size:0.9em;">My personal portfolio website -- a showcase of my work and skills.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/toaandri/Projet-transversal-Anamboatra-L2">🚀 Anamboatra</a></h3>
-      <p>Full-stack platform — citizen web app, staff dashboard & mobile field app with real-time updates.</p>
+    <td width="50%" valign="top" class="project-card" style="border:1px solid #30363d; border-radius:8px; padding:16px; transition:all 0.3s ease;">
+      <h3><a href="https://github.com/toaandri/Projet-transversal-Anamboatra-L2" style="color:#58a6ff; text-decoration:none;">Anamboatra</a></h3>
+      <p style="color:#8b949e; font-size:0.9em;">Full-stack platform -- citizen web app, staff dashboard & mobile field app with real-time updates.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/toaandri/BTP-site-">🏗️ BTP-site</a></h3>
-      <p>A website for the building & public works (BTP) sector.</p>
+    <td width="50%" valign="top" class="project-card" style="border:1px solid #30363d; border-radius:8px; padding:16px; transition:all 0.3s ease;">
+      <h3><a href="https://github.com/toaandri/BTP-site-" style="color:#58a6ff; text-decoration:none;">BTP-site</a></h3>
+      <p style="color:#8b949e; font-size:0.9em;">A website for the building & public works (BTP) sector.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/toaandri/Opencode-Skills">🤖 Opencode-Skills</a></h3>
-      <p>My personal collection of opencode AI skills.</p>
+    <td width="50%" valign="top" class="project-card" style="border:1px solid #30363d; border-radius:8px; padding:16px; transition:all 0.3s ease;">
+      <h3><a href="https://github.com/toaandri/Opencode-Skills" style="color:#58a6ff; text-decoration:none;">Opencode-Skills</a></h3>
+      <p style="color:#8b949e; font-size:0.9em;">My personal collection of opencode AI skills.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/toaandri/Complexite-algorithmique-examen-L2">🧮 Algorithmic Complexity</a></h3>
-      <p>Algorithmic complexity project — Big O analysis and optimization.</p>
+    <td width="50%" valign="top" class="project-card" style="border:1px solid #30363d; border-radius:8px; padding:16px; transition:all 0.3s ease;">
+      <h3><a href="https://github.com/toaandri/Complexite-algorithmique-examen-L2" style="color:#58a6ff; text-decoration:none;">Algorithmic Complexity</a></h3>
+      <p style="color:#8b949e; font-size:0.9em;">Algorithmic complexity project -- Big O analysis and optimization.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     </td>
   </tr>
 </table>
 
+</div>
+
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> My Journey
+## My Journey
+
+<div class="journey-section">
 
 | When | What |
 |------|------|
@@ -170,11 +255,13 @@
 | **Jul 2026** | Shipped **M-E-kaly** (food delivery), a BTP site, and opencode skills |
 | **Sep 2026** | Exploring AI-assisted development with opencode |
 
+</div>
+
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> Let's Connect
+## Let's Connect
 
-<div align="center">
+<div class="connect-section" align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://toaandri-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maharavo-andrianarijery-87abb4348/)
@@ -185,10 +272,21 @@
 
 ---
 
-<div align="center">
+<div class="footer-section" align="center">
 
 *Misaotra anao misidina eto! (Thanks for stopping by!)*
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Heart-Eyes.png" width="40" />
+<svg width="200" height="40" viewBox="0 0 200 40">
+  <defs>
+    <linearGradient id="line-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="20" x2="200" y2="20" stroke="url(#line-gradient)" stroke-width="2">
+    <animate attributeName="stroke-dasharray" from="0,200" to="200,0" dur="2s" fill="freeze" />
+  </line>
+</svg>
 
 </div>
