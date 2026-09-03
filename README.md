@@ -41,39 +41,11 @@
   .project-card:hover { transform: translateY(-2px); box-shadow: 0 4px 20px rgba(88,166,255,0.15); }
 </style>
 
-<div class="profile-header" align="center">
+<div class="profile-header" align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0d1117 100%); min-height: 140px; padding-top: 20px;">
 
-<svg width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="wave-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <path fill="url(#wave-gradient)" opacity="0.6">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
-      M0,60 C150,90 350,30 600,60 C850,90 1050,30 1200,60 L1200,0 L0,0 Z;
-      M0,60 C150,30 350,90 600,60 C850,30 1050,90 1200,60 L1200,0 L0,0 Z;
-      M0,60 C150,90 350,30 600,60 C850,90 1050,30 1200,60 L1200,0 L0,0 Z" />
-  </path>
-  <path fill="#0d1117" opacity="0.8">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
-      M0,80 C200,100 400,60 600,80 C800,100 1000,60 1200,80 L1200,0 L0,0 Z;
-      M0,80 C200,60 400,100 600,80 C800,60 1000,100 1200,80 L1200,0 L0,0 Z;
-      M0,80 C200,100 400,60 600,80 C800,100 1000,60 1200,80 L1200,0 L0,0 Z" />
-  </path>
-  <path fill="#0d1117">
-    <animate attributeName="d" dur="4s" repeatCount="indefinite" values="
-      M0,100 C300,110 600,90 900,100 C1050,105 1150,95 1200,100 L1200,0 L0,0 Z;
-      M0,100 C300,90 600,110 900,100 C1050,95 1150,105 1200,100 L1200,0 L0,0 Z;
-      M0,100 C300,110 600,90 900,100 C1050,105 1150,95 1200,100 L1200,0 L0,0 Z" />
-  </path>
-</svg>
+<h1 class="profile-name" style="font-size:2.2em; font-weight:800; letter-spacing:-0.02em; color:#c9d1d9;">ANDRIANARIJERY Toaviniaina Maharavo</h1>
 
-<h1 class="profile-name" style="margin-top:-60px; font-size:2.5em; font-weight:800; letter-spacing:-0.02em; color:#c9d1d9;">ANDRIANARIJERY Toaviniaina Maharavo</h1>
-
-<p class="profile-subtitle" style="font-size:1.1em; color:#8b949e; letter-spacing:0.05em; margin-top:8px;">SOFTWARE DEVELOPER &middot; MADAGASCAR</p>
+<p class="profile-subtitle" style="font-size:1em; color:#8b949e; letter-spacing:0.05em; margin-top:8px;">SOFTWARE DEVELOPER &middot; MADAGASCAR</p>
 
 <br/>
 
@@ -146,7 +118,7 @@
   </tr>
   <tr>
     <td><b>Database</b></td>
-    <td>
+    <d>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
