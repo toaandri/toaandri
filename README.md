@@ -9,12 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=111111&center=true&vCenter=true&width=650&lines=SOFTWARE+%26+WEB+DEVELOPER;Building+useful+digital+experiences;React+%C2%B7+Node.js+%C2%B7+TypeScript" alt="Animated introduction" />
 </p>
 
-<p align="center">
-  <a href="https://toaandri.vercel.app">PORTFOLIO</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/toaandri">GITHUB</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:toavinamaharavo@gmail.com">CONTACT</a>
-</p>
-
 <br/>
 
 <p align="center">
@@ -91,10 +85,16 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="https://toaandri.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/maharavo">LinkedIn</a> ·
-  <a href="https://web.facebook.com/ravo.mah">Facebook</a> ·
-  <a href="mailto:toavinamaharavo@gmail.com?subject=Hello%20Toaviniaina">Email</a>
+  <strong>Have a project in mind?</strong><br/>
+  Let's build something useful together.
+</p>
+
+<p align="center">
+  <a href="https://toaandri.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/toaandri"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/maharavo"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://web.facebook.com/ravo.mah"><img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:toavinamaharavo@gmail.com?subject=Hello%20Toaviniaina"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
