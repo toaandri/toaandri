@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:202020,100:ffffff&height=180&section=header&text=MAHARAVO&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated monochrome profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:202020,100:ffffff&height=180&section=header&text=TOAANDR&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated monochrome profile header" />
 </p>
 
 <h1 align="center">ANDRIANARIJERY Toaviniaina Maharavo</h1>
