@@ -12,8 +12,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toaandri&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=111111&text_color=444444&icon_color=111111" width="48%" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toaandri&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=444444" width="48%" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toaandri&theme=default" width="48%" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toaandri&theme=default" width="48%" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toaandri&hide_border=true&background=ffffff&stroke=111111&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=444444&currStreakNum=111111&sideNums=111111&dates=666666" width="70%" alt="GitHub contribution streak" />
