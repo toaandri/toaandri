@@ -1,7 +1,13 @@
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:163b5c,100:58a6ff&height=180&section=header&text=Toaviniaina%20Maharavo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated profile header" />
+</p>
+
 <h1 align="center">ANDRIANARIJERY Toaviniaina Maharavo</h1>
 
-<p align="center">SOFTWARE DEVELOPER · MADAGASCAR</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=SOFTWARE+DEVELOPER+%C2%B7+MADAGASCAR;Building+useful+digital+experiences;React+%C2%B7+Node.js+%C2%B7+TypeScript" alt="Animated introduction" />
+</p>
 
 <br/>
 
@@ -14,8 +20,6 @@
 </a>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=toaandri&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9" width="70%" />
-</div>
-
 </div>
 
 ---
@@ -74,7 +78,7 @@
   </tr>
   <tr>
     <td><b>Database</b></td>
-    <d>
+    <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
