@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="164" viewBox="0 0 600 164" fill="none" role="img" aria-labelledby="title">
+  <title id="title">03 — MITANEKO / POESAM project</title>
+  <rect x="0.5" y="0.5" width="599" height="163" rx="12" fill="#111" stroke="#333"/>
+  <text x="28" y="36" fill="#aaa" font-family="Consolas, monospace" font-size="12" letter-spacing="2">03 / POESAM PROJECT</text>
+  <text x="26" y="91" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="-1">MITANEKO</text>
+  <path d="M28 127H338" stroke="#333"/>
+  <g stroke-width="1.5">
+    <rect x="440" y="55" width="68" height="68" rx="8" stroke="#444"/>
+    <rect x="459" y="39" width="68" height="68" rx="8" fill="#191919" stroke="#999"/>
+    <path d="M477 84V62L493 78L509 62V84" stroke="#ddd" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M536 119H554M545 110V128" stroke="#777"/>
+  </g>
+</svg>
