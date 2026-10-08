@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="TOAANDRI — Software & Web Developer. Thoughtful interfaces. Useful software." />
+  <img src="./assets/header.gif" width="100%" alt="TOAANDRI — Software & Web Developer. Floating interface, logic and data layers. Thoughtful interfaces. Useful software." />
 </p>
 
 <h1 align="center">ANDRIANARIJERY Toaviniaina Maharavo</h1>
@@ -30,38 +30,48 @@
 
 ## Selected work
 
-Web platforms, local services and an exploration of reinforcement learning.
+Civic infrastructure, a control laboratory, event ticketing and a small everyday Android ritual.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/toaandri/Anamboatra"><img src="./assets/project-anamboatra.svg" width="100%" alt="01 — Anamboatra / Civic platform" /></a>
-      <p><strong>Anamboatra</strong> connects citizens, staff and field teams in a full-stack platform with real-time updates.</p>
-      <p><sub>TYPESCRIPT · FULL-STACK · L2 YEAR-END PROJECT</sub></p>
+      <a href="https://github.com/toaandri/Anamboatra"><img src="./assets/project-anamboatra.gif" width="100%" alt="01 — Anamboatra / Civic platform. Animated signals travel between citizens, headquarters and field teams." /></a>
+      <p><strong>Anamboatra</strong> connects citizen reports, headquarters and field interventions to track public infrastructure in Madagascar.</p>
+      <p><sub>REACT · EXPRESS · POSTGRESQL · EXPO</sub></p>
       <p><a href="https://github.com/toaandri/Anamboatra"><strong>Explore the repository ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/toaandri/M-E-kaly"><img src="./assets/project-mekaly.svg" width="100%" alt="02 — M-E-kaly / Food ordering & delivery" /></a>
-      <p><strong>M-E-kaly</strong> is an online food ordering and delivery system designed for the Malagasy market.</p>
-      <p><sub>TYPESCRIPT · FOOD ORDERING · DELIVERY</sub></p>
-      <p><a href="https://github.com/toaandri/M-E-kaly"><strong>Explore the repository ↗</strong></a></p>
+      <a href="https://github.com/toaandri/Stick-balancing"><img src="./assets/project-stick-balancing.gif" width="100%" alt="02 — Stick Balancing / Control laboratory. A conceptual cart-pole illustration with a moving cart and pendulum." /></a>
+      <p><strong>Stick Balancing</strong> combines Unity physics, a desktop workspace and local reinforcement-learning experiments for cart-pole control.</p>
+      <p><sub>UNITY · C# · PYTHON · REINFORCEMENT LEARNING</sub></p>
+      <p><a href="https://github.com/toaandri/Stick-balancing"><strong>Explore the repository ↗</strong></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/toaandri/MITANEKO"><img src="./assets/project-mitaneko.svg" width="100%" alt="03 — MITANEKO / POESAM project" /></a>
-      <p><strong>MITANEKO</strong> is an application created for the Orange Digital Center POESAM program.</p>
-      <p><sub>TYPESCRIPT · ORANGE DIGITAL CENTER · POESAM</sub></p>
-      <p><a href="https://github.com/toaandri/MITANEKO"><strong>Explore the repository ↗</strong></a></p>
+      <a href="https://github.com/toaandri/ticket"><img src="./assets/project-ticket.gif" width="100%" alt="03 — Ticket / Event experiences. A floating admission ticket with an animated scan line." /></a>
+      <p><strong>Ticket</strong> brings event discovery, seat reservations, a ticket wallet and organizer tools together across web and mobile, with test payments.</p>
+      <p><sub>REACT · DJANGO · POSTGRESQL · EXPO</sub></p>
+      <p><a href="https://github.com/toaandri/ticket"><strong>Explore the repository ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/toaandri/Stick-balancing"><img src="./assets/project-stick-balancing.svg" width="100%" alt="04 — Stick-balancing / Reinforcement learning" /></a>
-      <p><strong>Stick-balancing</strong> explores reinforcement learning to keep a stick balanced vertically.</p>
-      <p><sub>PYTHON · REINFORCEMENT LEARNING</sub></p>
-      <p><a href="https://github.com/toaandri/Stick-balancing"><strong>Explore the repository ↗</strong></a></p>
+      <a href="https://github.com/toaandri/BeforeYouGo"><img src="./assets/project-beforeyougo.gif" width="100%" alt="04 — Before You Go / Android ritual. Everyday objects gently move into a bag." /></a>
+      <p><strong>Before You Go</strong> is an offline Android app for composing your bag, confirming everyday objects and setting gentle departure reminders.</p>
+      <p><sub>KOTLIN · JETPACK COMPOSE · ANDROID · OFFLINE</sub></p>
+      <p><a href="https://github.com/toaandri/BeforeYouGo"><strong>Explore the repository ↗</strong></a></p>
     </td>
   </tr>
 </table>
+
+<details>
+  <summary>View the still illustrations</summary>
+  <br />
+  <a href="./assets/stills/header.png">Profile banner</a> ·
+  <a href="./assets/stills/project-anamboatra.png">Anamboatra</a> ·
+  <a href="./assets/stills/project-stick-balancing.png">Stick Balancing</a> ·
+  <a href="./assets/stills/project-ticket.png">Ticket</a> ·
+  <a href="./assets/stills/project-beforeyougo.png">Before You Go</a>
+</details>
 
 <p align="right">
   <a href="https://github.com/toaandri?tab=repositories">Browse all repositories ↗</a>
@@ -113,5 +123,5 @@ Have an internship opportunity, a collaboration or a project in mind? **Let's ta
 <br />
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Misaotra anao nitsidika eto! — Thanks for stopping by. TOAANDRI / Madagascar." />
+  <img src="./assets/footer.gif" width="100%" alt="Misaotra anao nitsidika eto! — Thanks for stopping by. TOAANDRI / Madagascar. A small animated signal travels along the footer." />
 </p>
