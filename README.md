@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://toaandri.vercel.app"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0d0d0d?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="View my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/maharavo"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/toaviniainamaharavo"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge" alt="Connect on LinkedIn" /></a>
   <a href="mailto:toavinamaharavo@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-0d0d0d?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
 </p>
 
@@ -118,7 +118,7 @@ I enjoy connecting the pieces of an application: an interactive frontend, a stru
 
 Have an internship opportunity, a collaboration or a project in mind? **Let's talk.**
 
-**[Portfolio ↗](https://toaandri.vercel.app)** &nbsp; / &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/maharavo)** &nbsp; / &nbsp; **[Email ↗](mailto:toavinamaharavo@gmail.com)**
+**[Portfolio ↗](https://toaandri.vercel.app)** &nbsp; / &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/toaviniainamaharavo)** &nbsp; / &nbsp; **[Email ↗](mailto:toavinamaharavo@gmail.com)**
 
 <br />
 
